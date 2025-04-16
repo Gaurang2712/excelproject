@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gaurang2712/excelproject/static/css/main.703dd612.css",
+    "main.js": "/Gaurang2712/excelproject/static/js/main.ea43fe3c.js",
+    "static/js/453.21d38bb9.chunk.js": "/Gaurang2712/excelproject/static/js/453.21d38bb9.chunk.js",
+    "index.html": "/Gaurang2712/excelproject/index.html",
+    "main.703dd612.css.map": "/Gaurang2712/excelproject/static/css/main.703dd612.css.map",
+    "main.ea43fe3c.js.map": "/Gaurang2712/excelproject/static/js/main.ea43fe3c.js.map",
+    "453.21d38bb9.chunk.js.map": "/Gaurang2712/excelproject/static/js/453.21d38bb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.703dd612.css",
+    "static/js/main.ea43fe3c.js"
+  ]
+}
